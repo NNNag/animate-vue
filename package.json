@@ -14,7 +14,7 @@
   "homepage": "https://NNNag.github.io/my-rep",
   "dependencies": {
     "gh-pages": "^3.0.0",
-    "gsap": "^3.2.6",
+    "gsap": "^3.6.0",
     "velocity-animate": "^1.5.2",
     "vue": "^2.5.2",
     "vue-router": "^3.0.1"
